@@ -8,14 +8,14 @@
 
 
 ## 🙋‍♂️ About Me
-- 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
-- 🔭 I’m currently teaching assistant on **[Kmin Academin](https://kmin.edu.vn/)**
+- 🏫 tôi học tại trường THPT Nguyễn Huệ (https://www.c3nguyenhue.daklak.edu.vn/).
+- 🔭 Là Quản Trị Viên Team Code Ske **[Ske Soft](https://.vn/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **trung2601.it@gmail,com**
+- 📫 How to reach me **workwithsang@gmail.com**
 
 - ⚡ Fun fact **I play Valorant very often.**
 
