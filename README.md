@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Trung</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sang</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trungngovan&theme=buddhism&margin-w=25&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
